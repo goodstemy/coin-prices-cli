@@ -1,0 +1,21 @@
+{
+  "name": "coin-prices-cli",
+  "version": "1.0.0",
+  "description": "Get crypto prices inside terminal",
+  "main": "index.js",
+  "bin": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodstemy/coin-prices-cli.git"
+  },
+  "keywords": ["crypto", "prices", "cli"],
+  "author": "Efremov I.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodstemy/coin-prices-cli/issues"
+  },
+  "homepage": "https://github.com/goodstemy/coin-prices-cli#readme"
+}
