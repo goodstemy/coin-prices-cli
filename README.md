@@ -5,6 +5,8 @@ Basicly this is just cli for usage if you doesn't want to leave your teminal :)
 
 ### How to use
 ```
+>npm i coin-prices-cli -g
+THEN
 > coin-prices-cli
 OR
 > coin-prices-cli --help
