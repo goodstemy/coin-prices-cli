@@ -1,7 +1,7 @@
 # coin-prices-cli
 
 ### Description
-Basicly this is just cli for usage if you doesn't want to leave your teminal :)
+Basically this is just cli for usage if you doesn't want to leave your teminal :)
 
 ### How to use
 ```
